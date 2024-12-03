@@ -29,7 +29,7 @@ This repository provides a collection of **ready-to-use Markdown templates** des
 ## 🔗 Substack
 Looking for insights and updates on AI, technology, and productivity? Check out my blog on **Substack**:
 
-➡️ [Visit My Substack](https://bernhuber.substack.com)
+➡️ [AI,Future,Productivity](https://bernhuber.substack.com)
 
 Stay updated with tips, templates, and cutting-edge ideas on leveraging AI and LLMs for productivity and innovation.
 
