@@ -2,7 +2,7 @@
 
 Welcome to the **Markdown Templates for LLMs** repository! 🚀
 
-This repository provides a collection of **ready-to-use Markdown templates** designed specifically for use with **Large Language Models (LLMs)** like ChatGPT, GPT-4, and others. Whether you're looking to format prompts, create structured data for better AI responses, or streamline workflows involving LLMs, you'll find something valuable here.
+This repository provides a collection of **ready-to-use Markdown templates** designed specifically for use with **Large Language Models (LLMs)** like ChatGPT, GPT-4, Claude, and others. Whether you're looking to format prompts, create structured data for better AI responses, or streamline workflows involving LLMs, you'll find something valuable here.
 
 ---
 
